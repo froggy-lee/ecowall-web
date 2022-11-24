@@ -1,0 +1,19 @@
+{
+  "donAccount":"खाता नहीं है?",
+  "forgotPass":"पासवर्ड भूल गए?",
+  "formatEmail":"गलत ईमेल प्रारूप",
+  "formatPass":"अधिक 8 वर्ण",
+  "loginGoogle":"Google के साथ साइन इन करें",
+  "loginSuccess":"सफलतापूर्वक लॉग इन हो चुका है!",
+  "password":"पासवर्ड",
+  "required":"आवश्यक",
+  "signIn":"साइन इन करें",
+  "signUp":"साइन अप करें",
+  "signInGoogle":"Google के साथ साइन इन करें",
+  "signUpGoogle": "Google के साथ साइन अप करें",
+  "pass":"पासवर्ड",
+  "verifyTitle": "हमने अभी आपके ईमेल पर सत्यापन कोड भेजा है",
+  "checkEmail": "कृपया अपना ई-मेल जांचें और वह कोड नीचे दर्ज करें",
+  "confirm": "पुष्टि करें",
+  "resendCode": "पुन: कोड भेजे"
+}

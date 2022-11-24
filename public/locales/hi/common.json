@@ -1,0 +1,5 @@
+{
+  "error-with-status": "सर्वर पर एक {{statusCode}} त्रुटि हुई",
+  "error-without-status": "सर्वर पर एक त्रुटि हुई",
+  "title": "होम | अगला-i18अगला"
+}

@@ -1,0 +1,20 @@
+{
+  "changePass":"Change Password",
+  "checkMail":"Please check your email to verify your account",
+  "confirmPass":"Confirm Password",
+  "dontMatch":"Passwords don't match",
+  "enterEmail":"Enter the email address associated with your account",
+  "findAccount":"Find Your Account",
+  "forgotPass":"Forgot Password?",
+  "formatEmail":"Incorrect email format",
+  "minPass":"More 8 character",
+  "password":"Password",
+  "regexPass":"Password must include at least 1 lowercase letter, 1 uppercase letter, 1 number and 1 special character",
+  "required":"Required",
+  "resentCode":"Resent code",
+  "resetSuccess":"Reset password successfully!",
+  "sendCode":"Send verification code to your email",
+  "emailAddress":"Email Address",
+  "enterCode":"Enter Code",
+  "pass":"Password"
+}
