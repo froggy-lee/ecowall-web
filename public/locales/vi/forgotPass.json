@@ -1,0 +1,20 @@
+{
+  "changePass":"Đổi mật khẩu",
+  "checkMail":"Vui lòng kiểm tra email của bạn để xác minh tài khoản của bạn",
+  "confirmPass":"Xác nhận mật khẩu",
+  "dontMatch":"Mật khẩu không khớp",
+  "enterEmail":"Nhập địa chỉ email được liên kết với tài khoản của bạn",
+  "findAccount":"tìm tài khoản của bạn",
+  "forgotPass":"Quên mật khẩu?",
+  "formatEmail":"Định dạng email không chính xác",
+  "minPass":"Thêm 8 ký tự",
+  "password":"Mật khẩu",
+  "regexPass":"Mật khẩu phải bao gồm ít nhất 1 chữ thường, 1 chữ hoa, 1 số và 1 ký tự đặc biệt",
+  "required":"Yêu cầu không được để trống",
+  "resentCode":"Mã phản đối",
+  "resetSuccess":"Đặt lại mật khẩu thành công!",
+  "sendCode":"Gửi mã xác minh đến email của bạn",
+  "emailAddress":"Địa chỉ Email",
+  "enterCode":"Nhập mã",
+  "pass":"Mật khẩu"
+}

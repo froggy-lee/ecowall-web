@@ -1,0 +1,19 @@
+{
+  "donAccount":"Không có tài khoản?",
+  "forgotPass":"Quên mật khẩu?",
+  "formatEmail":"Định dạng email không chính xác",
+  "formatPass":"Thêm 8 ký tự",
+  "loginGoogle":"Đăng nhập bằng Google",
+  "loginSuccess":"Đăng nhập thành công!",
+  "password":"Mật khẩu",
+  "required":"Yêu cầu không được để trống",
+  "signIn":"Đăng nhập",
+  "signUp":"Đăng ký",
+  "signInGoogle":"Đăng nhập bằng Google",
+  "signUpGoogle": "Đăng ký bằng Google",
+  "pass":"Mật khẩu",
+  "verifyTitle": "Chúng tôi vừa gửi mã xác minh đến email của bạn ",
+  "checkEmail": "Vui lòng kiểm tra E-mail của bạn và nhập mã đó vào bên dưới",
+  "confirm": "Xác nhận",
+  "resendCode": "Gửi lại mã"
+}

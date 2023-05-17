@@ -1,0 +1,19 @@
+{
+  "donAccount":"Don’t have an account?",
+  "forgotPass":"Forgot Password?",
+  "formatEmail":"Incorrect email format",
+  "formatPass":"More 8 character",
+  "loginGoogle":"Sign in with Google",
+  "loginSuccess":"Logged in successfully!",
+  "password":"Password",
+  "required":"Required",
+  "signIn":"Sign in",
+  "signUp":"Sign up",
+  "signInGoogle":"Sign in with Google",
+  "signUpGoogle": "Sign up with Google",
+  "pass":"Password",
+  "verifyTitle": "We just sent verification code to your email ",
+  "checkEmail": "Please check your E-mail and enter that code below",
+  "confirm": "Confirm",
+  "resendCode": "Resend Code"
+}
